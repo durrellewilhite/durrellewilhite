@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
 
-<!--
-**durrellewilhite/durrellewilhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior full-stack javascript developer with 8 years' background in software development specializing in Javascript, TypeScript, React, Next.js, and Node.js with Express.
+```
+⭐️ Over 70 successful projects done.
+⭐️ Over 8 years of experience in Web development.
+```
 
-Here are some ideas to get you started:
+```
+✔️ Javascript | Typescript | PHP | HTML | CSS | Bootstrap
+✔️ React | Redux | Redux toolkit
+✔️ Hooks | Styled components(Ant-Design, Material UI)
+✔️ Node.js | Express
+✔️ Laravel Framework
+✔️ Microservices | Cloud Services(Amazon, Google, Azure)
+✔️ API integration | REST APIs
+✔️ Testing : TDD/BDD, karma, jasmine, mocha + experience with PhantomJS/Selenium engines
+✔️ SQL | MySQL | SQLite | PostgreSQL | MongoDB
+✔️ VCS: SVN, GIT
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I play well in teams, easily adapting to new environments, workflows, and technologies.
